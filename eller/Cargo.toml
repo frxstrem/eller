@@ -1,0 +1,8 @@
+[package]
+name = "eller"
+version = "0.1.0"
+authors = ["Fredrik Østrem <frx.apps@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+eller-macro = { path = "../eller-macro" }
